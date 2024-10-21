@@ -2,7 +2,6 @@ Created a QR Code Generator by using HTML, CSS and JavaScript.
 
 #Output
 
-![Screenshot (61)](https://github.com/krishnnaa15/krishnnaa15/assets/141332207/c7e5500d-4c0a-4347-ae5d-e28698eb2aec)
-![Screenshot (62)](https://github.com/krishnnaa15/krishnnaa15/assets/141332207/5e88f411-2abf-484c-aa60-7ec13727410e)
-
+![Screenshot 2024-10-21 084431](https://github.com/user-attachments/assets/6ad9f695-c7f0-4a30-9714-d2b11b03b9e1)
+![Screenshot 2024-10-21 084522](https://github.com/user-attachments/assets/3045381f-504a-4c58-b977-d1fa60e72217)
 
